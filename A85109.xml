@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The phanatiques creed, or A door of safety; in answer to a bloody pamphlet intituled A door of hope: or, A call and declaration for the gathering together of the first ripe fruits unto the standard of our Lord, King Jesus. Wherein the principles, danger, malice, and designe of the sectaries, are impartially laid open.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85109</idno>
+            <idno type="STC">Wing F402</idno>
+            <idno type="STC">Thomason E1055_14</idno>
+            <idno type="STC">ESTC R208007</idno>
+            <idno type="EEBO-CITATION">99867014</idno>
+            <idno type="PROQUEST">99867014</idno>
+            <idno type="VID">119304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119304)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1055[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The phanatiques creed, or A door of safety; in answer to a bloody pamphlet intituled A door of hope: or, A call and declaration for the gathering together of the first ripe fruits unto the standard of our Lord, King Jesus. Wherein the principles, danger, malice, and designe of the sectaries, are impartially laid open.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Brome at the Gun in Ivy-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>A reply to: A door of Hope.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Example --  Early works to 1800.</term>
+               <term>Door of hope --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119304:1" rendition="simple:additions"/>
+            <p>THE PHANATIQUES CREED, OR A Door of Safety; In Anſwer to a bloody Pamphlet INTITULED A Door of Hope: OR, A CALL and DECLARATION for the gathering toge<g ref="char:EOLhyphen"/>ther of the firſt ripe Fruits unto the STANDARD of our Lord, KING JESUS.</p>
+            <p>Wherein the <hi>Principles, Danger, Malice,</hi> and <hi>Deſigne</hi> of the <hi>Sectaries,</hi> are Impartially Laid open.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Brome</hi> at the <hi>Gun</hi> in <hi>Ivy</hi>-lane. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119304:2"/>
+            <pb n="1" facs="tcp:119304:2"/>
+            <head>THE PHANATIQUES CREED, OR A Door of Safety, &amp;c.</head>
+            <p>ALthough That <hi>Party</hi> might very juſtly be deny'd the common Benefits of <hi>Indulgence,</hi> and <hi>Protection,</hi> that <hi>Declares</hi> it ſelf againſt the Common Rules of <hi>Religion,</hi> and <hi>Society:</hi> Yet His <hi>Majesty</hi> is rather pleas'd, by a gentle Interdiction of their Private meetings for the Future, to Prevent more Miſ<g ref="char:EOLhyphen"/>chief, then by a Total Extirpation of the whole Faction ſo Prin<g ref="char:EOLhyphen"/>cipled to Puniſh the Outrages they have already Committed. God grant they abuſe not This Mercie too, as they have done That already, by virtue of which they doe at this Inſtant enjoy their Lives and Fortunes. Never was ſo Foul a Villany Secon<g ref="char:EOLhyphen"/>ded by an Equal Madneſſe. For a Small, Poor, Raſh, Divided, Hated, and Deſpiſed Party, to Invade the Numerous, Potent, Sober, and United Intereſts of the Nation. A People, that en<g ref="char:EOLhyphen"/>joy'd all the Privileges of Engliſhmen, and Citizens, without any Provocation either from Neceſſity, or Oppreſſion. Theſe are your Men of <hi>Tender Conſciences;</hi> — your ſtreight-lac'd
+<pb n="2" facs="tcp:119304:3"/>Chriſtians.— The <hi>Spirits</hi> that ſome Twenty years ſince, were <hi>Raiſed,</hi> to Call for <hi>Juſtice</hi> upon <hi>Delinquents,</hi> and Taught to <hi>Tumult</hi> for a <hi>Goſpel-Miniſtry.</hi> The <hi>Croſſe,</hi> the <hi>Surplice,</hi> and the <hi>Common Prayer,</hi>—are an <hi>Abomination;</hi> but <hi>Rebellion, Blaſ<g ref="char:EOLhyphen"/>phemy, Murther, Sacrilege,</hi> Spilling of <hi>Chriſtian Bloud</hi> like <hi>Water;</hi> (Playing the <hi>Devil</hi> in the Name of <hi>Jeſus</hi>) This they call — <hi>Following of the Lamb. — Riſing againſt the ſéed of the Ser<g ref="char:EOLhyphen"/>pent:</hi> In fine, they aſcribe to a <hi>Divine Impulſe,</hi> the lewdeſt Acti<g ref="char:EOLhyphen"/>ons that ever proceeded from <hi>Corrupt Nature.</hi> To Reaſon with them, were to doe too much honour to their Groſſe, Wilde Opinions, and Time Loſt to oppoſe <hi>Argument</hi> againſt preten<g ref="char:EOLhyphen"/>ded <hi>Revelation.</hi> It ſhall ſuffice me, to expoſe their Principles, and leave the World to judge whether they favour more of <hi>Chriſt,</hi> or <hi>Belial.</hi> To that end, I have extracted the ſumme of the <hi>Phanatique Creed,</hi> from one of their own <hi>Pamphlets,</hi> Intitled</p>
+            <p>A Door of Hope: OR, A CALL and DECLARATION for the gathering together of the firſt ripe Fruits unto the STANDARD of our Lord, KING JESUS.</p>
+            <p>
+               <hi>NOw, your Attention to the Language of the Saints.- After an Invocation of the Holy Spirit; Thus doth our Libeller diſcourſe of his late Glorious Majeſty, (Page 1.)</hi>
+            </p>
+            <p>This beginning of Reformation, and the honeſt Party engaged in this Quarrel, (however by far the leſs number) God did abundant<g ref="char:EOLhyphen"/>ly own, and witneſs too from heaven, by opening his Salvation, and making bare his own Arm, against the late King, who was juſtly out off as a Murtherer, (ſee <hi>Decl. of Parl. 11. Feb. 1647.</hi>) Tyrant and Traytor, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Soon after in the ſame Page he goes on,</hi> — Nevertheleſſe,
+<pb n="3" facs="tcp:119304:3"/>God hath now taken away all our bancks, and permitted this old Ene<g ref="char:EOLhyphen"/>my, to come in upon us as a flood, <hi>Iſa. 59.19.</hi> And now <hi>C. S.</hi> the Son of that Murtherer is Proclaimed King of <hi>England,</hi> whoſe Throne of Iniquity is built on the Blood of precious Saints and Martyrs, and on the Blood of all our Brethren in the late Wars, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Not to trouble the Reader with his Nauſeous Calculations, and forc'd Gloſſes upon Texts, in favour of his Deluſion: my Buſineſſe is, in as Few words as may be, to ſhew how Dange<g ref="char:EOLhyphen"/>rous to the Civil Magiſtrate, and to the Publique Peace, Peo<g ref="char:EOLhyphen"/>ple of this perſwaſion are: Their Dreams of</hi> Zion <hi>and of</hi> Babel; <hi>and their ſetting</hi> Daniel <hi>and the</hi> Revelation <hi>together by the Ears about the <hi>Number of the Beaſt,</hi> concern not me. Thoſe te<g ref="char:EOLhyphen"/>dious Fooleries omitted, as beſide my Purpoſe; I paſſe on to his ſecond Page, where ſpeaking of the Royal Party he proceeds in theſe Terms.</hi>
+            </p>
+            <p>For as he raiſed up <hi>Pharoah,</hi> ſo hath he them, to ſhew his Power in them, and that his Name may be declared throughout all the Earth <hi>Rom. 9.17</hi> They are brought as Foxes into the Snare, and as Birds into the Net. We ſay when we conſider theſe things, we are ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar from being dejected, that we cannot reſtrain from ſinging and praiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, knowing that this will make much for Gods Honour, our good, and this Works advantage, and they ſhall not be able to touch one hair of our head; nay, we were very much confirmed in our hopes of the ſud<g ref="char:EOLhyphen"/>den appearance of this Work, by the coming in of their poor wretched King, at whom (as the Daughter of <hi>Zion</hi> did at that great boaſting <hi>Aſſyrian</hi>) we laugh, and have them in deriſion.</p>
+            <p>And when we conſider the great opinions of this year, the wonder<g ref="char:EOLhyphen"/>full effects it is like to produce, the ſweet harmony and agreement of the Prophecies, the viſibility of thoſe things therein foretold to fall in the time of the Witneſſes death, the great likelihood of the Witneſſes Re<g ref="char:EOLhyphen"/>ſurrection, the great New Covenant-Promiſe of the ſpirit made to this Work, the wonderfull undeniable ſigns of the times, and how mira<g ref="char:EOLhyphen"/>culouſly we have been cut out, and preſerved for this Work, of which we ſhall ſpeak in a brief Treatiſe by it ſelf: And alſo having our hearts broken with the Love of Chriſt, and boiling over, and having taſted through choice diſtinguiſhing grace, the Preciouſneſs, Power and Love, of a ſoul-endearing Jeſus; we are mightily awakend and ſtirred up, and that Fire that has been hid under our Aſhes will break out into Flames, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d that Fountain of the Rivers of Living Waters
+<pb n="4" facs="tcp:119304:4"/>into Streams, as the bubbling Springs that ſearcheth the ground, and finding entrance guſheth out. Our Lives, and every thing elſe that is dear unto us upon a worldly account, we deſpiſe as a mean thing in compariſon of the glory of that Name, which is to us as precious Oyntment, and we lay all down at the feet of our Lord Jeſus, reſolving if we periſh to periſh there.</p>
+            <p>
+               <hi>His Zeal growes now a little warm, in theſe words, Page 3.</hi>
+            </p>
+            <p>We therefore freely, of a ready mind, and with a most chear<g ref="char:EOLhyphen"/>full heart (accounting it an Honour too great for us, poor worms, who are the meanest of Men, the greateſt of Sinners, and the leaſt of Saints, to gird on a Sword for Chriſt.) Give up our Lives and E<g ref="char:EOLhyphen"/>ſtates unto our Lord King Jeſus, and to his People, to become Souldi<g ref="char:EOLhyphen"/>ers in the Lambs Army, abhorring Mercenary Principles, and Inte<g ref="char:EOLhyphen"/>reſts. And for this works ſake we deſire not to love our lives unto the death, neither will we ever (if we may ſpeak ſo great a word with reverence in the fear of God) ſheath our Swords again, untill <hi>Mount Zion become the joy of the whole Earth, a Mountain of holy<g ref="char:EOLhyphen"/>neſſe and a habitation of juſtice,</hi> untill <hi>Rome</hi> be in Aſhes, and <hi>Babylon become a biſſing and a curſe, the border of wicked<g ref="char:EOLhyphen"/>neſſe, and the people againſt whom the Lord hath indignation for ever, there being left unto her neither Name, nor Rem<g ref="char:EOLhyphen"/>nant, Son, or Nephew.</hi> For that we are not purpoſed, when the Lord ſhall have driven forth our Enemies here, in theſe Nations, and when we ſhall in a holy Triumph, have led our Captivity Cap<g ref="char:EOLhyphen"/>tive, to ſit down under our Vines and Fig-trees, but to go on to <hi>France, Spain, Germany,</hi> and <hi>Rome,</hi> to deſtroy the Beaſt and Whore, to burn her Fleſh with Fire, to throw her down with vio<g ref="char:EOLhyphen"/>lence as a Milſtone into the Sea, that ſhe may be found no more at all, <hi>Rev. 18.21. Jer. 51.35</hi> to bring not only theſe, but all the Nati<g ref="char:EOLhyphen"/>ons to the ſubjection of Chriſt, that the Kingdom may be the Lords, and to perfect the deliverance of all the Saints, the remnant of the <hi>Waldenſes,</hi> and all the Children of the Free-woman, who are yet groaning and crying under the Tyranny and Perſecutions of Anti<g ref="char:EOLhyphen"/>christ, and to avenge the blood of all the Martyrs, which we earnestly remember, and which is an eſpecial motive unto us, the cry of which is very loud in our ears, and much more in the ears of God, <hi>unto whom vengeance belongeth.</hi> And this is much more than a Na<g ref="char:EOLhyphen"/>tional Quarrel, that which is the Test now, being the intereſt of Chriſt, the blood of the Butcher'd, Murder'd, Martyr'd, and Maſſacred
+<pb n="5" facs="tcp:119304:4"/>Saints, the Intereſt of the good People, the Liberties of all men, and the undoing of all the ſinfull oppreſsions and yoaks of the whole Cre<g ref="char:EOLhyphen"/>ation.</p>
+            <p>The Controverſie now lyes between <hi>Zion</hi> and <hi>Babylon,</hi> Chriſt and Antichrist; and therefore we aſſert, <hi>That it is lawfull for the true ſpiritual Seed, the legitimate Heirs of the promiſes and the World,</hi> Rom. <hi>4.13. To RISE UP againſt the carnal, ſerpen<g ref="char:EOLhyphen"/>tine, accurſed ſeed, who are the deſtroyers of the Earth,</hi> Ren. <hi>11.18. To poſſeſſe the GATE of their Enemies, to bind their Kings in Chains, and their Nobles in Fetters of Iron.</hi> And we being called of God, and <hi>cut out without hands</hi> or human contrivement, in whom is ſhewn forth his Power; <hi>RISE UP</hi> on Gods behalf (free from the guilt of the breach of Oaths and Cove<g ref="char:EOLhyphen"/>nants upon our Conſciences) to conflict with this profane perſecuting Spirit of the Dragon, and the Worſhippers of the Beaſt that dwell on the Earth. And we <hi>Call</hi> all that have a Life to lay down for their King and Saviour, to come forth againſt them with the Sword, and execute upon them the judgements written. Are you a poor deſpiſed Remnant? why, God has formed you for himſelf: As Chriſt was <hi>a tender Plant, and a Root of dry Ground;</hi> ſo may his King<g ref="char:EOLhyphen"/>dom ariſe out of a poor, obſcure, illiterate, and (ſuch as the World calls) Fanatick people. And <hi>out of them ſhall come forth the Corner, the Nail, and the Battel-bow;</hi> we look for a righte<g ref="char:EOLhyphen"/>ous Spiritual Magiſtracy out of the <hi>new ſharp threſhing Inſtru<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>
+               <hi>From hence, after another Page, divided betwixt Raylings againſt</hi> Biſhops, Ceremonies, <hi>and</hi> Cavaliers, <hi>and the Recommen<g ref="char:EOLhyphen"/>dation of a</hi> well-order'd Commonwealth, <hi>which he ſayes is Inten<g ref="char:EOLhyphen"/>ded by his</hi> Kingdom of Chriſt, <hi>having Called in All to his Aſſiſt<g ref="char:EOLhyphen"/>ance, that either Hate the One, or Love the Other; he pro<g ref="char:EOLhyphen"/>nounces the King to be</hi> a Profeſt Enemy, a Rebell, and Traytor to Chriſt, <hi>[Page 5.] And half a dozen Lines further,</hi> Shall wee Quietly <hi>(ſayes he)</hi> give up our Necks to the Yoke, and ſuffer the Com<g ref="char:EOLhyphen"/>mon Prayer, Organ, &amp;c. to be impoſed on us? Is <hi>Iſrael</hi> a home-born Slave, that we ſhould bore the Ears of our Souls, and Bodies in their Poſts? What can we expect from them, if we will not take their wick<g ref="char:EOLhyphen"/>ed Oathes of <hi>Supremacy</hi> and <hi>Allegeance,</hi> that which we cannot doe, though we ſhould Dye, becauſe they are against both the Priestly and Kingly offices of our Lord Jeſus, <hi>&amp;c.</hi>
+            </p>
+            <pb n="6" facs="tcp:119304:5"/>
+            <p>
+               <hi>Did but this Miſerable Creature Think of</hi> Christs Doctrine, <hi>while he Prates thus Impertinently of his</hi> Offices, <hi>he might Re<g ref="char:EOLhyphen"/>member that we are to</hi> Obey, <hi>not to</hi> Deſtroy <hi>our</hi> Governours, <hi>for the Lords ſake. <hi>Does not our Bleſſed Saviour ſay himſelf,</hi>
+               </hi> My Kingdom is not of this world? <hi>But why do I conteſt with</hi> Whirl<g ref="char:EOLhyphen"/>winds, <hi>or with</hi> Shadowes: <hi>with a Phantôme, that is nothing but</hi> Fury, <hi>and</hi> Deluſion? <hi>To Follow him through All his wandrings; he runs himſelf Quite out of Breath in the next Leaf, againſt</hi> Popery, <hi>and the Deſign of Cruſhing the</hi> Reformed In<g ref="char:EOLhyphen"/>tereſt. <hi>He tells us further of</hi> Maſſacres <hi>deſign'd by the</hi> Jeſuites, <hi>but whether by Thoſe of the</hi> Society <hi>of</hi> Jeſus, <hi>or Theſe of the</hi> Kingdom <hi>of</hi> Jeſus, <hi>may be another Queſtion. Upon the Whole, he concludes the Neceſſitie of Taking Armes; and here followes his Chriſtian Invitation to that Pur<g ref="char:EOLhyphen"/>poſe.</hi> Page <hi>8.</hi>
+            </p>
+            <p>Who ſo loveth God, his Country or his own Rights which Christ purchaſed for him by his Blood, and cannot ſell his Body, Soul, and Conſcience to the Devil, to wicked men and their luſts, to <hi>commit ſin with greedineſſe, and run with them to the ſame exceſſe of all manner of filthineſſe and wickedneſſe,</hi> muſt now take up the Sword againſt this Beastly crew, as the laſt remedy God has left us; for ſuch is the unparallel'd iniquity of this day (we hope the De<g ref="char:EOLhyphen"/>vil is playing his laſt game in <hi>England</hi>) that a man that hath but Sobrietie in his looks, can ſcarcely paſſe without the brand of Fa<g ref="char:EOLhyphen"/>natick.</p>
+            <p>And theſe men themſelves have ſet us free from the Bonds of Sub<g ref="char:EOLhyphen"/>jection; for we have no benefit by the Government of this bloody Fami<g ref="char:EOLhyphen"/>ly, neither are we comprehended within the <hi>Verge</hi> of their Protecti<g ref="char:EOLhyphen"/>on: Wherefore they cannot juſtly challenge any obedience from us by the Law of Nature or Nations: <hi>For a man is not bound to pay him Subjection who ſeeks his Deſtruction.</hi>
+            </p>
+            <p>But although, <hi>The Children are brought to the birth, there is no ſtrength to bring forth;</hi> the hour is now come, and we are travelling in pain to be delivered, for the Name of our God, the Noble and Precious Interest of his Chriſt, and the Deliverance of his Saints and People; and O how are we ſtraitned till it be done! We have been with much fear and trembling in this Work, and much wrestling have we had with the Lord: for ſo far as he has revealed our ſelves unto us, we had rather ſuffer all things, not only to the loſſe
+<pb n="7" facs="tcp:119304:5"/>of our Names, and Eſtates, but even our very Lives for his ſake, who ſince we believed is made precious to us, then diſhonour his great and holy Name; and our Souls are ſweetly quieted in the Lord, and a<g ref="char:EOLhyphen"/>bundantly ſatisfied in the time; and certainly <hi>if we be deceived, God has deceived us.</hi> And now <hi>the Love of Chriſt has con<g ref="char:EOLhyphen"/>ſtrained us</hi> in the face of the greatest perils and dangers, <hi>none of which move us, ſo we may finiſh our courſe with joy,</hi> and ſerve our Generation in the works which God has committed to us, accord<g ref="char:EOLhyphen"/>ing to his will. And we profeſſe we have nothing but the <hi>naked Arm</hi> of the Lord to truſt in; and if we periſh, we'll periſh in believing his promiſes, in ſerving and promoting his Cauſe, in cont<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding for this Noble Truth of the Kingdom of his dear Son. And this is our joy, that our God has bound himſelf by his Promiſes (in his fear we ſpeak it, and with reverence) to appear for his People: And if God ſhould not appear for his poor <hi>Remnant of Jacob,</hi> and ſuffer then for whom his precious blood was ſhed to fall before Papiſts, and Cavaliers, and prophane, drunken, damning, ſwearing, Idolatrous, Adulterous, wicked and ungodly men; and ſhould ſuffer the Cauſe of the Papists, of the bloody Family of the <hi>Stuarts,</hi> of the old bloody, Popiſh, wicked Gentry of the Nation, of the drunken, dumb, Popiſh<g ref="char:punc">▪</g> ſcandalous Cler<g ref="char:EOLhyphen"/>gy, to get the upperhand of his own Cauſe, and ſhould ſuffer all our Reformation to be loſt, then <hi>what would become of his great Name? It was becauſe he could not bring them into the good Land,</hi> (will the Enemy ſay) <hi>that he has deſtroyed them in the Wilderneſſe:</hi> What will become of his promiſe made to <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and their Seed? How will the New Covenant ſeal<g ref="char:EOLhyphen"/>ed with the blood of Chriſt, and the Oath he ſware unto <hi>David</hi> in his holyneſs, be verified.</p>
+            <p>
+               <hi>Now therefore,</hi> to come to the matter of our Declaration, that we may lay the <hi>Ground-work</hi> of ſo great a Building, and ſtir up and provoke our Brethren in all the Countries, as alſo in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to ſhare with us in this honour, and be partakers in this work, and now to prepare themſelves, and in all points to be ready, in order to a general rendeſvouzing on <hi>Mount Zions bottom,</hi> We declare, &amp;c.</p>
+            <p>
+               <hi>Thus far, the</hi> Saints <hi>Call</hi> to the <hi>Standard; <hi>Now, Their</hi> De<g ref="char:EOLhyphen"/>claration, <hi>which conſiſts of Three Heads. 1. The Renunciati<g ref="char:EOLhyphen"/>on of</hi>
+               </hi> Antichristian Magiſtracy, Ministry, Tithes, &amp;c. <hi>2. The
+<pb n="8" facs="tcp:119304:6"/>Eſtabliſhment of</hi> Civil Liberty upon the Foundation of the Viſible Kingdom of our Lord Jeſus Chriſt. <hi>3. The manner of</hi> Diſpoſing of the Spoyle which ſhall be taken in Battel.</p>
+            <p>
+               <hi>The Subſtance of their Firſt Propoſition runs thus, page 9.</hi>
+            </p>
+            <p>We contend for a Righteous Magiſtracy, that may be <hi>a terrour to evil doers and a praiſe to them that do well,</hi> and for a true Goſ<g ref="char:EOLhyphen"/>pel-Miniſtery with their Maintainance: And we own and declare our Lord Jeſus Chriſt (unto whom and whoſe Laws we will alone ſubmit, as unto him who is the Fountain and Original of all juſt and lawfull Power) to be the Supreme Head and Law-giver of theſe Na<g ref="char:EOLhyphen"/>tious, the alone <hi>LEGISLATOR,</hi> who has right to make and give Laws for the governing of the Commonwealth, and who is <hi>King of Saints and Nations,</hi> whoſe Royal Laws and Precepts muſt be ſub<g ref="char:EOLhyphen"/>mitted unto in Church and State, and Tyranny, Monarchy, and An<g ref="char:EOLhyphen"/>tichristianiſm deſtroyed and rooted up in both; his <hi>Laws</hi> and <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> contained in the Holy Scriptures, and remaining in force ſince his death, to be the <hi>Law</hi> by which theſe Nations ſhall be governed and judged; and his Saints (without reſpect had to any particular form or judgement) on whom ſhall reſt <hi>the ſpirit of councel and wiſdom,</hi> ſhall be the <hi>Adminiſtrators</hi> thereof, or ſhall have the <hi>executive Power.</hi> So ſhall we have Magiſtrates like <hi>Job,</hi> that will be <hi>eyes to the blinde, and feet to the lame, and Fathers to the poor, that will break the jaws of the wicked, and pluck the ſpoil out of his teeth,</hi> Job <hi>29.</hi> And we ſhall be <hi>the bleſſed of the Lord,</hi> whoſe habitations ſhall be full of the bleſſings of heaven and earth, and full of <hi>Peace</hi> on the foundation of <hi>Truth,</hi> and we ſhall be the happyest people in the world, having the beſt Laws and the beſt Governours, <hi>Deut. 4.6, 7, 8.</hi>
+            </p>
+            <p>
+               <hi>Having in a word ſaid enough of the</hi> Second <hi>Head, concern<g ref="char:EOLhyphen"/>ing</hi> Civil Liberty; <hi>I paſſe to the</hi> Third, (Page <hi>10.</hi>) <hi>which ſayes,</hi>
+            </p>
+            <p>That the chief of the Spoil which ſhall be taken in Battel, and all the Eſtates which ſhall be forfeited through Treaſon and Rebellion, ſhall be brought into one common Treaſury, according to the Word of God, <hi>Their Gain ſhall be conſecrate to the Lord, and their Sub<g ref="char:EOLhyphen"/>ſtance to the Lord of the whole Earth,</hi> Mic. <hi>4.13.</hi> That it may not feed the Fowles of Prey, or enrich and corrupt particular Perſon, as of late, but carry on the Work of God with the Army of the Lamb, in which every Souldier ſhall be ſufficiently provided for, by a certain honour<g ref="char:EOLhyphen"/>able
+<pb n="9" facs="tcp:119304:6"/>constant Revenue, iſſuing out of the ſaid Treaſury, according to his Place, Degree, Services, and Family.</p>
+            <p>And for accompliſhing and attaining theſe great and weighty ends, we Declare alſo for the Razing, Deſtroying, and perpetual Rooting out of the whole <hi>Conſtitutions</hi> and <hi>Foundations</hi> of the Antichriſtian Laws and Government of theſe Nations; for the remo<g ref="char:EOLhyphen"/>ving of <hi>Taxes, Tythes, Exciſe,</hi> and <hi>Cuſtomes</hi> alſo, ſo far as Op<g ref="char:EOLhyphen"/>preſſive and unlawfull; ſlaviſh Tenures of Land, Oppreſſions of Land<g ref="char:EOLhyphen"/>lords, Monarchy and Lordſhip as well in Church as State; ſo alſo in Cities, Societies, and Families, wherein the Rights of younger Bre<g ref="char:EOLhyphen"/>thren will be vindicated according to Law, (the nature whereof is Juſtice, Mercy, and Equity, wherein is no footing for ſuch fictions as this wicked Law teacheth to diſtinguiſh between Courts of Juſtice and Equity) and the <hi>Nimrod</hi>-ſpirit and Monopolies of elder Brethren (unto whom as Kings in the Family, the younger Brethren are Slaves and Subjects, which is one grand branch of Tyranny, and Intereſt of Monarchy) pulled down, whoſe Intereſt nevertheleſſe, by right of Pri<g ref="char:EOLhyphen"/>mogeniture, is aſſerted according to the Kings Law, to wit, two-fold; <hi>For the ballance of Lands muſt be adaequate to the Govern<g ref="char:EOLhyphen"/>ment of the Common-wealth.</hi>
+            </p>
+            <p>And as our great deſire is to take off all yoaks and oppreſſions both of a civil and ſpiritual nature from the necks of the poor People; ſo ſhall we endeavour to caſt the <hi>wing</hi> of Protection over them, their Perſons, Families, and Intereſts, to preſerve them from Free-quarter, Plunder, and all other Injuries, and violence whatſoever, being reſolved firſt to offer up our own proper Eſtates for our neceſſary maintenance. For it ſhall be our great and indefatigable care to preſerve an excellent and ſtrict <hi>Diſcipline</hi> in our Army, that not the leaſt wrong of how ſmall value ſoever may be done, alwaies reſpecting <hi>Propriety;</hi> ſo that all Perſons (other than ſuch as ſhall oppoſe and rebel againſt this righteous Intereſt) may expect the fruition thereof in their peaceable Demeanours of themſelves, in their lawfull Occaſions, and Family concerns.</p>
+            <p>
+               <hi>Our Pamphleter's next Care is the Free Courſe of the</hi> Goſpel <hi>and he tells us for our comfort, (page 11.)</hi>
+            </p>
+            <p>
+               <hi>That the Remnant of Jacob ſhall be as dew from the Lord,</hi> when Magiſtrates and Souldiers ſhall preach the Goſpel, and <hi>teach the people knowledge,</hi> as well as thoſe appointed unto the Word
+<pb n="10" facs="tcp:119304:7"/>and Doctrine; for this Cheat of the Whore of <hi>Rome,</hi> and Innovation of <hi>Antichriſt,</hi> Monopolizing the Work of the Miniſtry (to make a trade of the Goſpel, and <hi>Slaves and Souls of men</hi>) into their own hands, limiting and appropriating it unto Perſons in Eccleſiaſtical Offices, ſhall be taken away.</p>
+            <p>And finally, We moſt earneſtly deſire, and call all that love our Lord Jeſus Chriſt, and wait for his Kingdom, to <hi>offer themſelves willingly with us in this Work,</hi> that as in that renowned Hiſtory, <hi>Judges 5.9.14, 15, 16, 17, 18, 23.</hi> 
+               <q>Out of <hi>Ephraim</hi> there may be a Root of us against <hi>Amaleck,</hi> after thee <hi>Benjamin</hi> among thy People; out of <hi>Machir</hi> ſhall come down Governours, and out of <hi>Zebulon</hi> they that handle the Pen of the Writer: The Princes of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſachar</hi> with <hi>Deborah</hi> and <hi>Barak</hi> on foot in the Valley. And if <hi>Reuben</hi> will continue in his diviſions, and abide among the Sheep<g ref="char:EOLhyphen"/>folds to hear the bleatings of the Flocks; <hi>Gilead</hi> abide beyond <hi>Jor<g ref="char:EOLhyphen"/>dan, Dan</hi> remain in Ships, and <hi>Aſher</hi> continue on the Sea-ſhore, and abide in his breaches; yet <hi>Zebulon</hi> and <hi>Napthali</hi> will be a People that will jeopard their lives unto the death in the high-pla<g ref="char:EOLhyphen"/>ces of the field; and <hi>Meroz</hi> ſhall be accurſed, becauſe they came not to the help of the Lord, to the help of the Lord against the mighty.</q> And <hi>our heart being towards you that among all the people offer your ſelves willingly to the Work,</hi> we beſeech you ſet all things in order prepare your ſelves, and let the Rich help the Poor, that with one mouth we may all ſay, <hi>Thine are we David, and on thy ſide thou ſon of Jeſſe; Peace, peace be unto thee, and peace be to thine helpers; for thy God helpeth thee,</hi> And if a<g ref="char:EOLhyphen"/>ny of the old Army which God hath laid aſide, whoſe hearts he hath touched, do quit their Interests, and come to us on this alone laſting Foundation, they ſhall be willingly received.</p>
+            <p>
+               <hi>From hence, to the End of the Pamphlet (no leſſe then 5. full Pages) I find nothing Remarquable, or uſefull. It is a Tedi<g ref="char:EOLhyphen"/>ous, and Confuſed Diſcourſe, full of Wreſted Applications, and Evident Diſagreements, concerning the</hi> Two Witneſſes <hi>in the</hi> Revelation. <hi>The ſcope of it, is to perſwade, that</hi> the Dwellers upon the Earth, <hi>are</hi> (<hi>as he expreſſes himſelf,</hi> Page <hi>14.</hi>) the Old, Carnal, Cavalier, Popiſh Party; — who Quarrelling with the Wit<g ref="char:EOLhyphen"/>neſſes about the <hi>Finiſhing Teſtimony, <hi>(as page 6.)</hi>
+               </hi> will proba<g ref="char:EOLhyphen"/>bly be now deſtroy'd by the great Day of the Witneſſes Riſe, in this
+<pb n="11" facs="tcp:119304:7"/>preſent year, <hi>1660. His great Confidence being founded upon Mr.</hi> Mede<hi>'s</hi> Clavis Apocalyptica, <hi>I ſhall only relate one material Obſervation concerning that Gentleman; and apply my ſelf then, to the Diſpatch of what I have to ſay. Mr.</hi> Mede, <hi>(other<g ref="char:EOLhyphen"/>wiſe an eminent perſon) was ſo abſolutely perſwaded, that the King of</hi> Swede <hi>ſhould deſtroy</hi> Antichriſt, <hi>that ſo far as poſſible, he caſt all his Calculations upon That Subject, to That Byaſſe: at laſt, he found his Errour, the King was ſlain, and the Impreſ<g ref="char:EOLhyphen"/>ſion of that Miſtake, in the Judgement of his neareſt Friends, coſt that worthy Gentleman his Life. This is enough ſaid up<g ref="char:EOLhyphen"/>on this Subject.</hi>
+            </p>
+            <p>
+               <hi>I ſhall Endeavour now to make ſome uſe of what I have ex<g ref="char:EOLhyphen"/>tracted from this Helliſh Libell; by drawing up in Short the ſum of All; That done, I ſhall diſcourſe upon it, as I ſee con<g ref="char:EOLhyphen"/>venient. Take now the Fundamentals of this Reprobated Faction, with a brief View of their Deſign.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="creed">
+                        <head>The Fanatiques Creed.</head>
+                        <p>I <hi>Do</hi> Believe <hi>all</hi> Governours, Governments, Laws <hi>and</hi> Conſtitutions, <hi>to be</hi> Antichriſtian, <hi>ſave</hi> Chriſt <hi>himſelf, — his</hi> Deputies, — <hi>his</hi> Viſi<g ref="char:EOLhyphen"/>ble Kingdom, <hi>with his</hi> Laws <hi>and</hi> Statutes: <hi>of which</hi> Laws, <hi>his</hi> Saints <hi>ſhall be the</hi> Adminiſtrators; <hi>(but without any Literal Direction, for upon them ſhall reſt the Spirit of</hi> Counſel <hi>and</hi> Wiſdom.) <hi>I do</hi> Believe, <hi>according to the</hi> Prophets, <hi>that in this preſent year</hi> 1660. <hi>all Carnal Powers ſhall be Deſtroy'd, and that the Controverſie lying between</hi> Zion <hi>and</hi> Babylon, <hi>I am bound to</hi> Liſt <hi>my ſelf a</hi> Souldier <hi>to the</hi> Lamb, <hi>and
+<pb n="12" facs="tcp:119304:8"/>called to</hi> Riſe <hi>on Gods behalf, to</hi> Bind Kings in Chains, &amp;c. — <hi>to</hi> Raze <hi>and</hi> Root <hi>out all</hi> Conſti<g ref="char:EOLhyphen"/>tutions Antichriſtian <hi>whatſoever, and whereſoever: and never to ſheath my Sword, till the</hi> Beaſt <hi>and</hi> Whore <hi>be deſtroy'd, till</hi> Rome <hi>lye in</hi> Aſhes, <hi>and</hi> Babylon be<g ref="char:EOLhyphen"/>come a Hiſsing and a Curſe, &amp;c.</p>
+                        <p>
+                           <hi>Wherefore let all that have Lives to lay down for their King and Saviour, come forth againſt the Wick<g ref="char:EOLhyphen"/>ed with the Sword, and execute upon them the Judge<g ref="char:EOLhyphen"/>ments written: As for the Late King, he was a</hi> Mur<g ref="char:EOLhyphen"/>therer, <hi>a</hi> Tyrant, <hi>and a</hi> Traytor: <hi>ſo is his</hi> Son; <hi>and further, an</hi> Enemy <hi>and</hi> Rebell <hi>to</hi> Chriſt, <hi>and we owe no Subjection to that</hi> Bloudy Family.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>CAn any <hi>Loyal, Modest,</hi> or <hi>Christian Ear,</hi> hear this Language without Tingling? Can any <hi>Sober</hi> or <hi>Politique</hi> Conſtitution, harbour theſe Vipers, with either <hi>Honor,</hi> or <hi>Security?</hi> I doe confeſſe, if This were but the Madneſſe of ſome <hi>Few,</hi> a man might Charitably impute it, either to ſome unhappy Diſtem<g ref="char:EOLhyphen"/>per of <hi>Complexion,</hi> or a more deplorable <hi>Deluſion.</hi> But Theſe are people, only Frantique in their <hi>Opinions;</hi> Their <hi>Actions</hi> have a Face of better Reaſon, in Order to the Execution of their Damn'd purpoſes. I grant; for <hi>Number,</hi> and for <hi>Intereſt</hi> they are not conſiderable in the Nation, and yet what Miſchiefs will not Twenty Bold Rogues effect, if left at Liberty, that are of This Perſwaſion? We need not look far back to ſee the blou<g ref="char:EOLhyphen"/>dy Determination of theſe wretches. For my own Part, I have but little Intereſt with thoſe that ſit at the Helm; If I had more, I would employ much of it, to Theſe three Ends. 1. To pro<g ref="char:EOLhyphen"/>cure a ſtrict ſeverity againſt Seditious Preachers; for 'twas the Pulpit firſt Engaged and Licenſed this Rabble; tho' for another Intereſt; which having ſerv'd Long enough, they ſet up for
+<pb n="13" facs="tcp:119304:8"/>Themſelves. Nay; come to the very point of their late Tu<g ref="char:EOLhyphen"/>mult, 'tis more then probable, that <hi>Venner</hi>'s Preachment blew them into ſo ſudden Action. In the next place; the <hi>Preſs</hi> I would adviſe ſhould be well Look'd to. That Preaches to the Whole Nation at once. 'Tis True, ſome <hi>Pamphlets,</hi> with the <hi>Printers</hi> and <hi>Authors</hi> have been diſcover'd; but there are <hi>Others,</hi> of a more Dangerous, though of a ſmoother Compoſi<g ref="char:EOLhyphen"/>on; that paſſe as current, as if they had an <hi>Imprimantur,</hi> not ſo much as look'd after, to the right End. (but of Thoſe, I in<g ref="char:EOLhyphen"/>tend to ſay ſomething further ere long.) Now my Third Care ſhould be to diſappoint the Intended Outrages of the <hi>Phana<g ref="char:EOLhyphen"/>tiques.</hi> And to That Purpoſe; I would move that <hi>ſuch of their Principles as are Inconſiſtent with the Conſtitution of this Nation; and Deſtructive to it; and Own'd for Theirs, by themſelves, in This their Late prodigious Libell, might be ſumm'd up together, and offer'd to all ſuſpected Perſons; and whoſoever ſhould Refuſe, under Hand, and before Witneſses, to diſclaim the ſaid Opinions, I would have him commanded to depart the City, and upon a Penalty not to be ſuffered to come within Twenty Miles of</hi> London, <hi>without Licence.</hi>
+            </p>
+            <p>If it be objected, that This would make them Deſperate; I an<g ref="char:EOLhyphen"/>ſwer, that their Principles render them ſo, more then any thing elſe can; and that while they reteyn Thoſe Principles, they are not to be Truſted; when they Quit them, they are not to be Puniſhed. Alas, with how much <hi>Eaſe</hi> and <hi>Safety,</hi> may this be done! I was about to ſay how hazardous may it prove to leave it undone. I am perſwaded, that the Fear of Danger where none is, produces the Greateſt Dangers. <hi>Can it be Imagined that among ſo many Proſtitute <hi>Devotes</hi>
+               </hi> (as they reckon themſelves) <hi>there are not ſome Combinations as well Perſonal, as Publique; to Act, what I cannot even Conceive without Horrour?</hi> If ſo, <hi>Where, but in This Town; by whom, but by this Faction, can ſuch a <g ref="char:V">Ʋ</g>illany be At<g ref="char:EOLhyphen"/>tempted?</hi>
+            </p>
+            <p>It's True, their Private Meetings are forbidden, Yet they meet ſtill, in ſpite of Authority, and in contempt of the Proclama<g ref="char:EOLhyphen"/>tion that forbids them. If any further Miſchief enſue, let thoſe that are to Look to't, Anſwer for't. I have here oppo<g ref="char:EOLhyphen"/>ſed a <hi>Door <hi>of</hi> Safety,</hi> to their <hi>Door <hi>of</hi> Hope;</hi> with the Submiſ<g ref="char:EOLhyphen"/>ſion of my Private Thoughts to due, and Fayre Correction. I
+<pb n="14" facs="tcp:119304:9"/>am no <hi>Publick Minister,</hi> but one that Truly Loves his <hi>Country,</hi> and that heartily ſayes, <hi>GOD SAVE THE KING.</hi>
+            </p>
+            <p>As to Their <hi>Jewiſh,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ngratefull</hi> Revilings of their Lawfull <hi>Prince;</hi> That <hi>Prince,</hi> who to <hi>ſave</hi> the Lives of theſe <hi>
+                  <g ref="char:V">Ʋ</g>nmanner<g ref="char:EOLhyphen"/>ly Rebels,</hi> hath expoſed his Own; I ſhall not trouble my ſelf to Reply upon't. His <hi>Bleſſed Father,</hi> was ended with a <hi>Super<g ref="char:EOLhyphen"/>lative,</hi> and <hi>Fatal Tenderneſſe;</hi> The <hi>Beſt</hi> of <hi>Men,</hi> and the moſt <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>happy</hi> of <hi>Kings</hi> met in the ſame Perſon. That our preſent So<g ref="char:EOLhyphen"/>veraign may be as <hi>Little</hi> the Latter, as he is <hi>Perfectly</hi> the <hi>For<g ref="char:EOLhyphen"/>mer,</hi> ſhall be my <hi>Earneſt</hi> and <hi>Concluding Prayer.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 15. 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
